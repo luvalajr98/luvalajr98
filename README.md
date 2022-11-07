@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## SOCIALS
+<!-- ## SOCIALS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkipngenokoech&label=Views&color=blue&style=plastic" alt="kkipngenokoech" /> </p>
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <a href="https://web.facebook.com/kipngeno.koech.1422/">
   <img align="left" alt="kipngeno koech's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
-
+ -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luvalajr98" alt="luvala" /></a> </p>
 
