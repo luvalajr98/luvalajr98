@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![<Wander_luvs>](https://github-readme-stats.vercel.app/api?username=<luvalajr98>&show_icons=true&theme=monokai) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=<luvalajr98>&theme=monokai&currStreakLabel=4FAEBA&border=4FAEBA&stroke=A92CA2&fire=4FAEBA&ring=A92CA2&dates=DDDDDD)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luvalajr98&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvalajr98&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+
