@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkipngenokoech&label=Views&color=blue&style=plastic" alt="kkipngenokoech" /> </p>
 
-<a href="https://www.linkedin.com/in/kkipngenokoech/">
+<a href="https://https://www.linkedin.com/in/kelvin-luvala-58412816a/">
   <img align="left" alt="kipngeno koec<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkipngenokoech&label=Views&color=blue&style=plastic" alt="kkipngenokoech" /> </p>
 
 <a href="https://www.linkedin.com/in/kkipngenokoech/">
